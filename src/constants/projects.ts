@@ -10,7 +10,7 @@ export const projectsData = [
             "An ongoing and possibly never ending project that showcases my journey in web development.",
         techStack: ["NextJS", "TailwindCSS", "Vercel"],
         gotoUrl: "home",
-        githubUrl: null,
+        githubUrl: "https://github.com/romexblue/portfolio-v2",
     },
     {
         title: "XU Lib Xentry",
