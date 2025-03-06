@@ -15,7 +15,7 @@ const WorksSection = () => {
                         Some of my side projects outside the 9-5 job.
                     </p>
                 </div>
-                <div className="mt-6 w-full flex justify-center md:justify-normal flex-wrap gap-10">
+                <div className="mt-6 w-full flex justify-center flex-wrap gap-8">
                     {projectsData?.map((data) => (
                         <ProjectCard {...data} key={data?.title} />
                     ))}

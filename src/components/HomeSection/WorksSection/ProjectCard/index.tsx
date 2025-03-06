@@ -6,8 +6,6 @@ import { FaGithub } from "react-icons/fa6";
 import { MdArrowOutward } from "react-icons/md";
 import GradientLink from "~/components/GradientLink";
 import { StaticImport } from "next/dist/shared/lib/get-img-props";
-import GradientButton from "~/components/GradientButton";
-import { scrollToSection } from "~/utils/scroll-to-element";
 
 type Props = {
     title: string;
@@ -27,7 +25,7 @@ const ProjectCard = ({
     githubUrl,
 }: Props) => {
     return (
-        <div className="p-2 w-fit border rounded-lg max-w-80 bg-neutral-200 dark:bg-neutral-900 shadow-md">
+        <div className="p-2 w-fit border rounded-lg max-w-72 bg-neutral-200 dark:bg-neutral-900 shadow-md">
             <div className="">
                 <div className="relative h-60 w-full overflow-hidden rounded-md">
                     <Image
