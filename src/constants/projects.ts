@@ -10,7 +10,7 @@ export const projectsData = [
         description:
             "An ongoing and possibly never ending project that showcases my journey in web development.",
         techStack: ["NextJS", "TailwindCSS", "Vercel"],
-        gotoUrl: "home",
+        gotoUrl: "/",
         githubUrl: "https://github.com/romexblue/portfolio-v2",
     },
     {
