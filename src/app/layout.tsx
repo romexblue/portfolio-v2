@@ -16,6 +16,14 @@ export const metadata: Metadata = {
     description:
         "Portfolio of Gerome Tahud, a Full Stack Developer specializing in React, Node.js, Next.js, and GraphQL.",
     keywords: "Full Stack Developer, React, Node.js, Next.js, Portfolio",
+    openGraph:{
+        title: "Gerome Tahud - Full Stack Developer",
+        description:
+            "Portfolio of Gerome Tahud, a Full Stack Developer specializing in React, Node.js, Next.js, and GraphQL.",
+        siteName: "Gerome Tahud",
+        url: "https://gerome-tahud.vercel.app",
+        type: "website",
+    }
 };
 
 export default function RootLayout({
