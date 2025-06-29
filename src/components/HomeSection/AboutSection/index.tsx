@@ -39,7 +39,7 @@ const AboutSection = () => {
                         <div className="w-full space-y-4">
                             <p className="text-center md:text-justifytext-center md:text-justify">
                                 Hi, I&apos;m Gerome, a passionate Full Stack
-                                Developer with almost 2 years of experience in
+                                Developer with more than 2 years of experience in
                                 building dynamic, responsive web applications. I
                                 specialize in <strong>JavaScript</strong>{" "}
                                 frameworks like <strong>React</strong> and{" "}
