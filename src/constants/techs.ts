@@ -9,7 +9,7 @@ export const featuredTechData = [
         title: "React",
         imgSrc: reactLogo,
         description:
-            "2 years of professional and project experience building dynamic UIs with React. ",
+            "2+ years of professional and project experience building dynamic UIs with React. ",
         skillPercentage: 90,
         progressColor: "#61dbfb",
     },
@@ -17,7 +17,7 @@ export const featuredTechData = [
         title: "NextJS",
         imgSrc: nextjsLogo,
         description:
-            "1 year of experience developing server-rendered applications with Next.js",
+            "2+ year of experience developing server-rendered applications with Next.js",
         skillPercentage: 84,
         progressColor: "black",
     },
@@ -25,7 +25,7 @@ export const featuredTechData = [
         title: "Node",
         imgSrc: nodejs,
         description:
-            "2 years of hands-on experience with Node.js in building robust backend services and APIs",
+            "2+ years of hands-on experience with Node.js in building robust backend services and APIs",
         skillPercentage: 80,
         progressColor: "#68a063",
     },
