@@ -3,6 +3,7 @@ import reactLogo from "~/assets/react.png";
 import nextjsLogo from "~/assets/nextjs.png";
 import mysqlLogo from "~/assets/mysql.png";
 import nodejs from "~/assets/node.png";
+import shopify from "~/assets/node.png";
 
 export const featuredTechData = [
     {
@@ -17,7 +18,7 @@ export const featuredTechData = [
         title: "NextJS",
         imgSrc: nextjsLogo,
         description:
-            "2+ year of experience developing server-rendered applications with Next.js",
+            "2+ years of experience developing server-rendered applications with Next.js",
         skillPercentage: 84,
         progressColor: "black",
     },
@@ -41,8 +42,16 @@ export const featuredTechData = [
         title: "Graphql (Client and Server)",
         imgSrc: graphqlLogo,
         description:
-            "1+ years of professional experience working with GraphQL sercer and Apollo Client for data fetching",
+            "2+ years of professional experience working with GraphQL server and Apollo Client for data fetching",
         skillPercentage: 70,
         progressColor: "#e535ab",
+    },
+    {
+        title: "Shopify",
+        imgSrc: shopify,
+        description:
+            "1+ years of experience customizing and developing e-commerce storefronts with Shopify.",
+        skillPercentage: 89,
+        progressColor: "#95BF47",
     },
 ];

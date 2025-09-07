@@ -32,8 +32,7 @@ const HeroSection = () => {
                     <div className="mt-6 flex flex-col md:flex-row items-center gap-4">
                         <div className="w-full md:w-fit min-w-fit">
                             <GradientLink
-                                targetUrl={"/Resume_Gerome_Full_Stack_Dev.pdf"}
-                                isDownload
+                                targetUrl={"https://drive.google.com/file/d/1MdbXI79CnfgdllUfMoXiQUU_cPghYRrv/view"}
                             >
                                 <span className="px-2 flex gap-2">
                                     My Resume <LuDownload className="text-xl" />
