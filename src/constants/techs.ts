@@ -3,7 +3,7 @@ import reactLogo from "~/assets/react.png";
 import nextjsLogo from "~/assets/nextjs.png";
 import mysqlLogo from "~/assets/mysql.png";
 import nodejs from "~/assets/node.png";
-import shopify from "~/assets/node.png";
+import shopify from "~/assets/shopify.png";
 
 export const featuredTechData = [
     {
